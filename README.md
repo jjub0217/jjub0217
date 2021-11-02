@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Joohyun Kang, a little frontend developer 👶🏻
+### I'm Joohyun Kang, a little frontend developer 👶🏻
 
 <!--
 **jjub0217/jjub0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
