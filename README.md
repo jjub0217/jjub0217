@@ -24,12 +24,10 @@
 </span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
- href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img align="center" alt="JavaScript" width="26px"
-  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
   style="max-width: 100%;"></a>
- 
- 	
 </span>
 <span>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
