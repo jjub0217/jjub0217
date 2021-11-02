@@ -41,7 +41,7 @@
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png" >
-  <img align="center" alt="JavaScript" width="26px"
+  <img align="center" alt="Styled-components" width="28px"
   src="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png"
   style="max-width: 100%;"></a>
 </span>
