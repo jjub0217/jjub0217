@@ -1,4 +1,6 @@
-### Hi there, I'm JooHyun
+# Hi there👋
+---
+## I'm JooHyun, a little developer working hard to become a front-end developer👶🏻
 
 <!--
 **jjub0217/jjub0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
