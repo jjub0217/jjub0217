@@ -17,7 +17,7 @@
 <img align="center" src="https://img.shields.io/badge/HTML5-FE642E?style=flat-square&logo=html5&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/CSS3-2E9AFE?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=balck"/></a>
+<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/></a>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
