@@ -14,7 +14,7 @@
 
 ### Tech Stack 🛠
 **Languages**
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML-FE642E?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
