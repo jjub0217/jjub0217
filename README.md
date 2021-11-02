@@ -38,22 +38,22 @@
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
   style="max-width: 100%;"></a>
 </span>
+<br>
+**Strong**
+<span>
+ <a target="_blank" rel="noopener noreferrer"
+href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img align="center" alt="React" width="26px"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+  style="max-width: 100%;">
+ </a>
+</span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png" >
   <img align="center" alt="Styled-components" width="28px"
   src="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png"
   style="max-width: 100%;"></a>
-</span>
-<br>
-**Strong**
-<span>
- <a target="_blank" rel="noopener noreferrer"
- href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img align="center" alt="React" width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-  style="max-width: 100%;">
- </a>
 </span>
 <br>
 **Tools**
