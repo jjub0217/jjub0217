@@ -40,7 +40,7 @@
 </span>
 
 <span>
- &#32;&#32;&#32;&#32;&#32;
+ &#32;
  <a target="_blank" rel="noopener noreferrer"
  href="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png" >
   <img align="center" alt="JavaScript" paddingLeft="5px" width="26px"
