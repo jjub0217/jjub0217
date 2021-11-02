@@ -41,7 +41,7 @@
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png">
-  <img align="center" alt="JavaScript" width="26px"
+  <img align="center" alt="JavaScript" paddingLeft="5px" width="26px"
   src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
   style="max-width: 100%;"></a>
 </span>
