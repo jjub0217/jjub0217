@@ -14,10 +14,10 @@
 
 ### Tech Stack 🛠
 **Languages**
-<img align="center" src="https://img.shields.io/badge/HTML5-FE642E?style=flat-square&logo=html5&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/CSS3-2E9AFE?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/></a>
+<img align="center" src="https://img.shields.io/badge/HTML5-FE642E?style=flat-square&logo=html5&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/CSS3-2E9AFE?style=flat-square&logo=CSS3&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -44,8 +44,8 @@
 </span>
 <br>
 **Strong**
-<img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/></a>
-<img align="center" src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=React&logoColor=61dafb"/></a>
+<img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/>
+<img align="center" src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=React&logoColor=61dafb"/>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png" >
@@ -64,7 +64,7 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 </span>
 <br>
 **Interested**
-<img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
