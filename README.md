@@ -17,7 +17,7 @@
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img align="left" alt="HTML5" width="26px"
+  <img align="center" alt="HTML5" width="26px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
   style="max-width: 100%;">
  </a>
