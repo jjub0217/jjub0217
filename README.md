@@ -40,9 +40,9 @@
 </span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
- href="https://spectrum.imgix.net/communities/e8792514-dc32-43ff-a26e-81c85754f193/test.png.0.3184486404030735?w=256&h=256&dpr=2&auto=compress&expires=1625529600000&ixlib=js-1.3.0&s=f125d56e90c9a72c0761a95f3a67cf30" >
+ href="https://user-images.githubusercontent.com/62126380/139845261-83047b24-8dce-4baa-aaed-bdbabf5f32c6.png" >
   <img align="center" alt="JavaScript" width="26px"
-  src="https://spectrum.imgix.net/communities/e8792514-dc32-43ff-a26e-81c85754f193/test.png.0.3184486404030735?w=256&h=256&dpr=2&auto=compress&expires=1625529600000&ixlib=js-1.3.0&s=f125d56e90c9a72c0761a95f3a67cf30"
+  src="https://user-images.githubusercontent.com/62126380/139845261-83047b24-8dce-4baa-aaed-bdbabf5f32c6.png"
   style="max-width: 100%;"></a>
 </span>
 <br>
