@@ -44,7 +44,7 @@
 </span>
 <br>
 **Strong**
-<img align="center" src="https://img.shields.io/badge/Styled-Components-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/Styled-Styled-Components-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
 <span>
  <a target="_blank" rel="noopener noreferrer"
