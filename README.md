@@ -48,13 +48,21 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 </span>
 <br>
 **Strong**
-
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png" >
   <img align="center" alt="Styled-components" width="26px"
   src="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png"
-  style="max-width: 100%;"></a>
+  style="max-width: 100%;">
+ </a>
+</span>
+<span>
+ <a target="_blank" rel="noopener noreferrer"
+href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img align="center" alt="React" width="26px"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+  style="max-width: 100%;">
+ </a>
 </span>
 <br>
 **Tools**
