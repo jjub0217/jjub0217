@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Joohyun Kang, a little frontend developer 👶🏻
+### Hi there, I'm Joohyun Kang, a little frontend developer 👶🏻
 
 
 - 🌱 I’m currently learning Typescript
