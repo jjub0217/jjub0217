@@ -1,5 +1,4 @@
 # Hi there👋
----
 ## I'm JooHyun, a little developer working hard to become a front-end developer👶🏻
 
 <!--
