@@ -40,9 +40,9 @@
 </span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
- href="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png" >
+ href="https://spectrum.imgix.net/communities/e8792514-dc32-43ff-a26e-81c85754f193/test.png.0.3184486404030735?w=256&h=256&dpr=2&auto=compress&expires=1625529600000&ixlib=js-1.3.0&s=f125d56e90c9a72c0761a95f3a67cf30" >
   <img align="center" alt="JavaScript" width="26px"
-  src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
+  src="https://spectrum.imgix.net/communities/e8792514-dc32-43ff-a26e-81c85754f193/test.png.0.3184486404030735?w=256&h=256&dpr=2&auto=compress&expires=1625529600000&ixlib=js-1.3.0&s=f125d56e90c9a72c0761a95f3a67cf30"
   style="max-width: 100%;"></a>
 </span>
 <br>
