@@ -81,7 +81,7 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 </span>
 <br>
 **Tools**
-<img align="center" src="https://img.shields.io/badge/Visual_Studio-0080FF?style=flat-square&logo=visual_studio&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Visual_Studio-0080FF?style=flat-square&logo=visual studio&logoColor=white"/>
 <span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
