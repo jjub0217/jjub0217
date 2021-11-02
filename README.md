@@ -50,9 +50,9 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 </span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
- href="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png" >
+ href="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png" >
   <img align="center" alt="Styled-components" width="28px"
-  src="https://user-images.githubusercontent.com/62126380/139845499-72d8f425-bed3-4a2c-bae4-ab6199add2d2.png"
+  src="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png"
   style="max-width: 100%;"></a>
 </span>
 <br>
