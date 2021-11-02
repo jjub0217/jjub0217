@@ -87,6 +87,5 @@ href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e8235
 </span>
 <br>
 <br>
-<br>
  ![jjub0217's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjub0217&show_icons=true&theme=buefy)
 
