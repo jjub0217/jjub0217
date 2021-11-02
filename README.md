@@ -45,6 +45,7 @@
 <br>
 **Strong**
 <img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img align="center" src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png" >
