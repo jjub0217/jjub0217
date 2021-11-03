@@ -18,30 +18,6 @@
 <img align="center" src="https://img.shields.io/badge/CSS3-2E9AFE?style=flat-square&logo=CSS3&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/>
-<span>
- <a target="_blank" rel="noopener noreferrer"
- href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img align="center" alt="HTML5" width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" 
-  style="max-width: 100%;">
- </a>
-</span>
-<span>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
- <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
-      style="max-width: 100%;">
- </a>
- </span>
- <span>
- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"><img align="center" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width: 100%;"></a>
- </span>
-<span>
- <a target="_blank" rel="noopener noreferrer"
- href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="center" alt="JavaScript" width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-  style="max-width: 100%;"></a>
-</span>
 <br>
 **Strong**
 <img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/>
