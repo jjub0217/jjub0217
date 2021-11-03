@@ -22,22 +22,6 @@
 **Strong**
 <img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/>
 <img align="center" src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=React&logoColor=61dafb"/>
-<span>
- <a target="_blank" rel="noopener noreferrer"
- href="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png" >
-  <img align="center" alt="Styled-components" width="26px"
-  src="https://user-images.githubusercontent.com/62126380/139846548-13bd3b1b-71cf-4139-bf35-4b81f247859f.png"
-  style="max-width: 100%;">
- </a>
-</span>
-<span>
- <a target="_blank" rel="noopener noreferrer"
-href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img align="center" alt="React" width="26px"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-  style="max-width: 100%;">
- </a>
-</span>
 <br>
 **Interested**
 <img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
