@@ -26,13 +26,6 @@
 **Interested**
 <img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/React%20Native-2E2E2E?style=flat-square"/>
-<span>
- <a target="_blank" rel="noopener noreferrer"
- href="https://pagepro.co/static/img/react-native-40f97c1acb.svg">
-  <img align="center" alt="React Native" width="23px"
-  src="https://pagepro.co/static/img/react-native-40f97c1acb.svg" style="max-width: 100%;">
- </a>
-</span>
 <br>
 **Tools**
 <img align="center" src="https://img.shields.io/badge/Visual_Studio-2E2E2E?style=flat-square&logo=visual studio&logoColor=0080FF"/>
