@@ -25,7 +25,7 @@
 <br>
 **Interested**
 <img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://user-images.githubusercontent.com/62126380/140053421-4e753a3e-0d50-4a30-b74f-fe02505687eb.png"/>
+<img align="center" src="https://img.shields.io/badge/React%20Native-2E2E2E?style=flat-square"/>
 <span>
  <a target="_blank" rel="noopener noreferrer"
  href="https://pagepro.co/static/img/react-native-40f97c1acb.svg">
