@@ -8,9 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-- 🌱  I’m currently learning Typescript
-- 💌  contact: devel.jjub@gmail.com
-- 📖  2021 Goal: Focus on the basics
+- 🌱 &nbsp I’m currently learning Typescript
+- 💌 &nbsp contact: devel.jjub@gmail.com
+- 📖 &nbsp 2021 Goal: Focus on the basics
 
 ### Tech Stack 🛠
 **Languages**
