@@ -29,7 +29,7 @@
 <br>
 **Tools**
 <img align="center" src="https://img.shields.io/badge/Visual_Studio-2E2E2E?style=flat-square&logo=visual studio&logoColor=0080FF"/>
-<img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=181717"/>
+<img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/>
 <span>
 <span>
  <a target="_blank" rel="noopener noreferrer"
