@@ -10,7 +10,7 @@
 
 - 🌱  I’m currently learning React
 - 💌  contact: devel.jjub@gmail.com
-- 📖  2021 Goal: Focus on the basics
+- 📖  2025 Goal: Focus on the basics
 
 ### Tech Stack 🛠
 **Languages**
