@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-- 🌱  I’m currently learning Typescript
+- 🌱  I’m currently learning React
 - 💌  contact: devel.jjub@gmail.com
 - 📖  2021 Goal: Focus on the basics
 
