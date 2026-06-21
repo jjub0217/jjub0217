@@ -8,16 +8,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
-- 🌱  I’m currently learning React
+- 🌱  currently exploring: AI-assisted dev workflows (Claude Code)
 - 💌  contact: devel.jjub@gmail.com
-- 📖  2025 Goal: Focus on the basics
+- 📖  blog: https://velog.io/@jjub0217
 
 ### Tech Stack 🛠
 **Languages**
+<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/HTML5-FE642E?style=flat-square&logo=html5&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/CSS3-2E9AFE?style=flat-square&logo=CSS3&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=black"/>
+
 <br>
 **Strong**
 <img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/>
