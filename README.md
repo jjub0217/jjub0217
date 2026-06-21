@@ -26,14 +26,17 @@
 <img align="center" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <br>
 
-**Interested**
-<img align="center" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/React%20Native-2E2E2E?style=flat-square"/>
+**Familiar**
+<img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Zustand-2E2E2E?style=flat-square"/>
 <br>
 
 **Tools**
-<img align="center" src="https://img.shields.io/badge/Visual_Studio-2E2E2E?style=flat-square&logo=visual studio&logoColor=0080FF"/>
-<img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <br>
 <br>
  ![jjub0217's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjub0217&show_icons=true&theme=buefy)
