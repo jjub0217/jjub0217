@@ -22,8 +22,8 @@
 <br>
 
 **Strong**
-<img align="center" src="https://img.shields.io/badge/Styled_Components-db7093?style=flat-square&logo=styled-components&logoColor=F7D358"/>
 <img align="center" src="https://img.shields.io/badge/React-2E2E2E?style=flat-square&logo=React&logoColor=61dafb"/>
+<img align="center" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 <br>
 
 **Interested**
